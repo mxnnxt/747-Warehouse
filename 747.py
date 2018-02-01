@@ -7,20 +7,20 @@ print ("[" + (time.strftime("%H:%M:%S")) + "]" + " *            747WAREHOUSE Bot
 print ("[" + (time.strftime("%H:%M:%S")) + "]" + " *          Developed by @mxnnxt            *")
 print ("[" + (time.strftime("%H:%M:%S")) + "]" + " ********************************************\n")
 
+email = str(input("[" + (time.strftime("%H:%M:%S") + "]" + " - Enter your Gmail: ")))
+
 ########################################################
 #                                                      #
 #                     EDIT BELOW                       #
 #                                                      #
 ########################################################
 
-email = str(input("[" + (time.strftime("%H:%M:%S") + "]" + " - Enter your Gmail: ")))
-
-firstName = "Minnat"
-lastName = "Azad"
+firstName = "John"
+lastName = "Doe"
 gender = "M"
-birthMonth = "03"
-birthYear = "1983"
-birthDay = "14"
+birthMonth = "06"
+birthYear = "2000"
+birthDay = "12"
 
 ########################################################
 #                                                      #
